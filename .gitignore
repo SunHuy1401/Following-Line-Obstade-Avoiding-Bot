@@ -1,0 +1,15 @@
+# STM32 build folders
+Debug/
+Release/
+
+# Object files and binaries
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# IDE specific files (tùy chọn)
+.metadata/
